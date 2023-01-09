@@ -17,10 +17,8 @@ public abstract class Case {
         return suivante;
     }
 
-
     public String getName() {
         return name;
     }
-
 
 }
